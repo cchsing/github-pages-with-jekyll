@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Tutorial 000: Learning to use Github
 
-I'm glad you are here. I plan to talk about ...
+Follow the learning path in the repository. 
+Aim for a project creation within the Github and website creation for resume. 
